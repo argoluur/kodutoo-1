@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,7 +9,11 @@
     <title>Kell</title>
 </head>
 
-<body>
+<body id="clockBody">
+    <div id="nameContainer">
+        <div id="firstName">Argo.</div>
+        <div id="lastName">Luur</div>
+    </div>
     <!-- HTML struktureerimiseks: Ctrl+A Ctrl+K Ctrl+F -->
     <div id="container">
         <div id="clockContainer">
@@ -21,10 +26,22 @@
             <div id="month">01.</div>
             <div id="year">2000</div>
         </div>
-        <div id="buttonContainer">
-            <button id="bigger">+</button>
-            <button id="smaller">-</button>
-        </div>
+       
+
     </div>
+
+    <div id="controlContainer">
+        <button id="randomColor">Suvaline taustavärv</button>
+        <button id="changeClockOrder">Vaheta kellaaeg ja kuupäev</button>
+        <button id="bigger">+</button>
+        <button id="smaller">-</button>
+        <button id="moveLeft"> <- </button>
+        <button id="moveCenter"> -><- </button>
+        <button id="moveRight"> -> </button>
+        <button id="rainbowText">Vikerkaare kell</button>
+    </div>
+    <p id="repo"><a href="https://github.com/argoluur/kodutoo-1">https://github.com/argoluur/kodutoo-1</a></p>
 </body>
+
+
 </html>
