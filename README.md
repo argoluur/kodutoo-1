@@ -2,7 +2,8 @@
 
 Argo Luur
 
-<img width="1844" height="958" alt="image" src="https://github.com/user-attachments/assets/c365cb99-c2f2-4835-bd52-80fb6bafc3a3" />
+<img width="1848" height="955" alt="image" src="https://github.com/user-attachments/assets/7f6c2a69-fc6b-4550-9286-26997ae65adf" />
+
 
 # Funktsionaalsus
 1. Suvaline taustavärv: muudab lehe taustavärvi suvaliseks värviks
